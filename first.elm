@@ -28,3 +28,23 @@ evaluate state =
         "Unavailable"
 
 evaluate true
+
+-- Lists
+elements =
+    ["Mary Jane", "Gwen Stacy", "Michelle"]
+    --Lists should have same values.
+
+elements.length -- > 3
+elements.sort -- > orders the list
+
+List.reverse elements -- > inversed order
+
+numbers =
+    [2,4,6,8]
+
+sum n =
+    n ^ 2
+
+List.map sum numbers -- > [4,16,36,64] 
+
+-- Tuples

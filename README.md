@@ -1,2 +1,2 @@
-# Elm-Notebook
+# Elm-Notebook :book:
 An Elm Notebook.

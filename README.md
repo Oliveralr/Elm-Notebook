@@ -1,2 +1,2 @@
 # Elm-Notebook :book:
-An Elm Notebook.
+_Practical Elm Notebook._ 

@@ -48,3 +48,5 @@ sum n =
 List.map sum numbers -- > [4,16,36,64] 
 
 -- Tuples
+names = 
+    ("Jhon", "Jane", "Jason") --> Inmmutable 
